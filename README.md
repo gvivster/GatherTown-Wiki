@@ -1,4 +1,4 @@
-_To explore the wiki, click on "📖Wiki" in the bar above, [or just click here](https://github.com/gvivster/GatherTown-Wiki/wiki)._
+👉 _[Click here](https://github.com/gvivster/GatherTown-Wiki/wiki) to explore the wiki, or click on "📖Wiki" in the bar above._
 
 # Gather.town Wiki
 This is an unofficial, community-led wiki for [Gather.town](http://gather.town/) users.
